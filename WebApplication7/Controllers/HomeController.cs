@@ -17,7 +17,6 @@ namespace WebApplication7.Controllers
             string ffff2 = "fdgdfgdfgdfgdfgdfg2";
             string ffff3 = "fdgdfgdfgdfgdfgdfg3";
             string ffff4 = "fdgdfgdfgdfgdfgdfg4";
-            string ffff5 = "fdgdfgdfgdfgdfgdfg5";
             return View();
         }
 
