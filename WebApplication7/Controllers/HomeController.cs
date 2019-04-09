@@ -13,6 +13,7 @@ namespace WebApplication7.Controllers
         public IActionResult Index()
         {
             string ffff = "fdgdfgdfgdfgdfgdfg";
+            string ffff = "fdgdfgdfgdfgdfgdfg1";
             return View();
         }
 
